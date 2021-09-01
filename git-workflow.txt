@@ -3,3 +3,4 @@ DOne with feature branch changes.
 Done with release branch changes.
 Hot fixes applied.
 Donw eith second feature branch changes.
+Done with release branch 0.2.0 changes.
